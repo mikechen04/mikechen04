@@ -28,4 +28,5 @@ Computer Science B.S. Major @ UCSC<br><br>Actively seeking a job/internship!
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-# 📊 GitHub Stats: ![](https://github-readme-stats.shion.dev/api?username=mikechen04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mikechen04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats: 
+![](https://github-readme-stats.shion.dev/api?username=mikechen04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mikechen04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
