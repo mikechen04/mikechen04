@@ -2,7 +2,7 @@
 Computer Science B.S. Major @ UCSC<br><br>Actively seeking a job/internship!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikechen04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mike-chen-163733254)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mikechen04.github.io/Mike-Chen-Portfolio)
 
 # 💻 Tech Stack:
