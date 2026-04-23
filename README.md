@@ -1,9 +1,6 @@
 # 💫 About Me:
 Computer Science B.S. Major @ UCSC<br><br>Actively seeking a job/internship!
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikechen04) 
 
@@ -12,8 +9,5 @@ Computer Science B.S. Major @ UCSC<br><br>Actively seeking a job/internship!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mikechen04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mikechen04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=mikechen04&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
